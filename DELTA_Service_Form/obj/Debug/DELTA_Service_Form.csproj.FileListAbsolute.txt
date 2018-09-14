@@ -1,0 +1,14 @@
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service_Form\bin\Debug\DELTA_Service_Form.exe.config
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service_Form\bin\Debug\DELTA_Service_Form.exe
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service_Form\bin\Debug\DELTA_Service_Form.pdb
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service_Form\obj\Debug\DELTA_Service_Form.Form1.resources
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service_Form\obj\Debug\DELTA_Service_Form.Properties.Resources.resources
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service_Form\obj\Debug\DELTA_Service_Form.csproj.GenerateResource.Cache
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service_Form\obj\Debug\DELTA_Service_Form.exe
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service_Form\obj\Debug\DELTA_Service_Form.pdb
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service_Form\obj\Debug\DELTA_Service_Form.csprojResolveAssemblyReference.cache
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service_Form\bin\Debug\DELTA_Service.exe
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service_Form\bin\Debug\CNCNetLib.dll
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service_Form\bin\Debug\DELTA_Service.pdb
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service_Form\obj\Debug\DELTA_Service_Form.new_cnc.resources
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service_Form\obj\Debug\DELTA_Service_Form.cutter_magazine.resources

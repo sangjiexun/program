@@ -1,0 +1,9 @@
+D:\Frank\program\DELTA\v4\DELTA_Form\tree_test\bin\Debug\tree_test.exe.config
+D:\Frank\program\DELTA\v4\DELTA_Form\tree_test\bin\Debug\tree_test.exe
+D:\Frank\program\DELTA\v4\DELTA_Form\tree_test\bin\Debug\tree_test.pdb
+D:\Frank\program\DELTA\v4\DELTA_Form\tree_test\obj\Debug\tree_test.csprojResolveAssemblyReference.cache
+D:\Frank\program\DELTA\v4\DELTA_Form\tree_test\obj\Debug\tree_test.Form1.resources
+D:\Frank\program\DELTA\v4\DELTA_Form\tree_test\obj\Debug\tree_test.Properties.Resources.resources
+D:\Frank\program\DELTA\v4\DELTA_Form\tree_test\obj\Debug\tree_test.csproj.GenerateResource.Cache
+D:\Frank\program\DELTA\v4\DELTA_Form\tree_test\obj\Debug\tree_test.exe
+D:\Frank\program\DELTA\v4\DELTA_Form\tree_test\obj\Debug\tree_test.pdb

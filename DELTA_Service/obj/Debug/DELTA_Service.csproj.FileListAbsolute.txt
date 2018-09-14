@@ -1,0 +1,10 @@
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service\bin\Debug\DELTA_Service.exe
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service\bin\Debug\CNCNetLib.dll
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service\bin\Debug\DELTA_Service.exe.config
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service\bin\Debug\DELTA_Service.pdb
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service\obj\Debug\DELTA_Service.ProjectInstaller.resources
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service\obj\Debug\DELTA_Service.Service1.resources
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service\obj\Debug\DELTA_Service.csproj.GenerateResource.Cache
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service\obj\Debug\DELTA_Service.exe
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service\obj\Debug\DELTA_Service.pdb
+D:\Frank\program\DELTA\v4\DELTA_Form\DELTA_Service\obj\Debug\DELTA_Service.csprojResolveAssemblyReference.cache
